@@ -1,0 +1,24 @@
+# humanstxt.org
+
+# TEAM
+
+All by myself
+
+---
+
+# THANKS
+
+Learntheweb 
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+Visual studio code insiders
+Firefox
+
+## Hosting
+
+Not at the moment
